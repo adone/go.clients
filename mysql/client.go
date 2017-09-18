@@ -6,8 +6,8 @@ package mysql
 import (
 	"github.com/jinzhu/gorm"
 
-	"gopkg.in/adone/go.clients.v1"
-	"gopkg.in/adone/go.clients.v1/mysql/transaction"
+	"gopkg.in/gopaws/go.clients.v1"
+	"gopkg.in/gopaws/go.clients.v1/mysql/transaction"
 )
 
 // New create new MySQL client wrapper

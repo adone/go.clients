@@ -4,8 +4,8 @@ import (
 	"gopkg.in/pg.v5"
 	"gopkg.in/pg.v5/orm"
 
-	"gopkg.in/adone/go.clients.v1"
-	"gopkg.in/adone/go.clients.v1/postgres/transaction"
+	"gopkg.in/gopaws/go.clients.v1"
+	"gopkg.in/gopaws/go.clients.v1/postgres/transaction"
 )
 
 // New return new PostgreSQL connection wrapper

@@ -1,8 +1,8 @@
 package redis
 
 import (
-	"gopkg.in/adone/go.clients.v1"
-	"gopkg.in/adone/go.redis.v1/storage"
+	"gopkg.in/gopaws/go.clients.v1"
+	"gopkg.in/gopaws/go.redis.v1/storage"
 )
 
 // New return new redis storage wrapper
